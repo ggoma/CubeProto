@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1630311428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2cc17c78b29d124ff92b4f2d6b345cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6dbf0dba562ad7b6f0c878a16c810995
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54cfa23f0c2016f4ba946b8949595089, type: 3}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pokoverse/PokoverseBaseAtlas.mat
+- Assets/Pokoverse/PokoverseBaseAtlasObj.prefab
+- Assets/Pokoverse/PokoverseBaseAtlas.png
+Dependencies: []
