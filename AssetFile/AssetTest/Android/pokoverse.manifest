@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 277552134
+CRC: 744287025
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c4ed21543045c67ccb01e852f0554fdb
+    Hash: 31aa41e414547fb4f667d4823dd1ec03
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9ce09f4cf0ee4a8d3e620995780e21bd
@@ -27,7 +27,4 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/TestAssetBundle/New Atlas.prefab
-- Assets/TestAssetBundle/New Atlas.mat
-- Assets/TestAssetBundle/New Atlas.asset
-- Assets/TestAssetBundle/New Atlas.png
 Dependencies: []
