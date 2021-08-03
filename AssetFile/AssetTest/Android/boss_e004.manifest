@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3147737512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c151b96dd548fff911a9cd1fc94c1052
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21747e4ee48f36c7a65f9afbfd77f392
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/monster_image.psd
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/Materials/e004.mat
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/Materials/basic_image.007.mat
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/Materials/em004.mat
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/Materials/base_image.mat
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/Materials/monster_image.mat
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/Materials/basic_image.mat
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/block_icon.png
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/monster_model.fbx
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/base_model.fbx
+- Assets/DefaultAssetBundle/BossCharacter/boss_e004/base_image.psd
+Dependencies: []
