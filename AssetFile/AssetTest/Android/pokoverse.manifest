@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 744287025
+CRC: 4234239283
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 31aa41e414547fb4f667d4823dd1ec03
+    Hash: 40cc3f4eadcf439cec6384691eb8f7f8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9ce09f4cf0ee4a8d3e620995780e21bd
@@ -27,4 +27,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/TestAssetBundle/New Atlas.prefab
+- Assets/TestAssetBundle/PokoverseObj_1_AtlasObj.prefab
 Dependencies: []
